@@ -1,0 +1,11 @@
+{
+  "image": "docker.io/python:latest",
+  "extensions": ["ms-python.python", "ms-python.black-formatter", "ms-python.isort"],
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "settings": {
+    "workbench.colorTheme": "Solarized Dark"
+  }
+}
+
